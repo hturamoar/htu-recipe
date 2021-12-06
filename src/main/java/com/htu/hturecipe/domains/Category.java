@@ -1,4 +1,4 @@
-package com.htu.hturecipe.domain;
+package com.htu.hturecipe.domains;
 
 import java.util.Set;
 
